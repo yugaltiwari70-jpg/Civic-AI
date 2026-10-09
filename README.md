@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CivicAI - backend (Express + MongoDB)
 Hackathon prototype. Not affiliated with any government body or Microsoft. No government integration exists.
 
@@ -21,3 +22,6 @@ curl -F demoScenario=pothole localhost:5000/api/issues/analyze
 
 ## Known limitations
 No React frontend in this package; `analysisMode` is client-supplied; no rate limiting; uploads on local disk; not tested against a live MongoDB or AI key in the build sandbox.
+=======
+# Civic-AI
+>>>>>>> 03e1163dc1e17d49d09a8bd95f0f9c6db41fe865
